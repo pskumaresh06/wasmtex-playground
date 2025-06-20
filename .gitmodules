@@ -1,0 +1,3 @@
+[submodule "wasm-builder/emsdk"]
+	path = wasm-builder/emsdk
+	url = https://github.com/emscripten-core/emsdk.git
